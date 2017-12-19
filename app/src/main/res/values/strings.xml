@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="pls_wait">Please wait...</string>
+    <string name="visible_fragment">visible_fragment</string>
+    <string name="source_fragment">source_fragment</string>
+    <string name="article_fragment">article_fragment</string>
+    <string name="source_name">source_name</string>
+    <string name="article_url" >article_url</string>
+    <string name="article_detail_fragment">article_detail_fragment</string>
+    <string name="msg_ok">OK</string>
+    <string name="net_msg">Please check your Network connection.</string>
+
+
+</resources>
